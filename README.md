@@ -2,16 +2,18 @@
 <p align="center">🚀 4th Year Computer Science Student | 💡 Problem Solver | ⚙️ Full-Stack & ML Enthusiast</p>
 
 <div align="center">
-  <!-- LeetCode Stats -->
-    <img src="https://raw.githubusercontent.com/AllenPaul-2005/AllenPaul-2005/main/github-metrics.svg" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/AllenPaul/">
+    <img src="https://leetcard.jacoblin.cool/AllenPaul?theme=dark&font=baloo&animation=true&ext=contest,heatmap" height="230" />
+  </a>
 </div>
+
 
 ---
 
 ## 🧠 About Me
 
 - 🎓 Final-year CSE student passionate about building intelligent, useful tools  
-- 🔍 Solved **300+ LeetCode problems** (and counting...)  
+- 🔍 Solved **800+ LeetCode problems** (and counting...)  
 - 💬 Working on AI, Systems, Full-Stack, and Cloud-based apps  
 - 🛠️ Currently experimenting with **voice-controlled AI productivity tools**
 
@@ -29,7 +31,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AllenPaul-2005&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AllenPaul-2005&theme=tokyonight&hide_border=true" height="160" />
 </div>
 
 ---
