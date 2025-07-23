@@ -5,6 +5,9 @@
   <a href="https://leetcode.com/AllenPaul/">
     <img src="https://leetcard.jacoblin.cool/AllenPaul?theme=dark&font=baloo&animation=true&ext=contest,heatmap" height="230" />
   </a>
+  
+  <img src="https://github.com/AllenPaul-2005/AllenPaul-2005/blob/main/github-metrics.svg" alt="LeetCode Stats with Contest Graph" />
+
 </div>
 
 
