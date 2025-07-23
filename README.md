@@ -1,11 +1,12 @@
 <h1 align="center">👋 Hey there, I'm Allen Paul</h1>
 <p align="center">🚀 4th Year Computer Science Student | 💡 Problem Solver | ⚙️ Full-Stack & ML Enthusiast</p>
 
-<div align="center">
+<p align="center">
   <a href="https://leetcode.com/AllenPaul/">
-    <img src="https://leetcard.jacoblin.cool/AllenPaul?theme=dark&font=baloo&animation=true&ext=contest,heatmap" height="230" />
+    <img src="https://leetcard.jacoblin.cool/AllenPaul?ext=contest" alt="LeetCode stats card" />
   </a>
-</div>
+</p>
+
 
 
 ---
