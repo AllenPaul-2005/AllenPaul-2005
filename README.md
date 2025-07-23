@@ -2,7 +2,8 @@
 <p align="center">🚀 4th Year Computer Science Student | 💡 Problem Solver | ⚙️ Full-Stack & ML Enthusiast</p>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/AllenPaul?theme=unicorn&font=baloo&animation=true&ext=activity" height="230" />
+  <!-- LeetCode Stats -->
+    <img src="https://raw.githubusercontent.com/AllenPaul-2005/AllenPaul-2005/main/github-metrics.svg" alt="LeetCode Stats" />
 </div>
 
 ---
@@ -27,8 +28,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AllenPaul&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AllenPaul&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AllenPaul-2005&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AllenPaul-2005&theme=tokyonight&hide_border=true" height="160" />
 </div>
 
 ---
